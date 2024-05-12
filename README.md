@@ -2,7 +2,7 @@
 
 ## Descrizione del Progetto
 
-Questo progetto riguarda l'analisi di un dataset, che include l'importazione di un file CSV, la sua modifica, l'analisi dei dati, la gestione dei valori mancanti, degli outlier, l'encoding delle variabili categoriche, il ridimensionamento delle variabili e la divisione del dataset.
+Questo progetto riguarda l'analisi di un dataset, che include l'importazione di un file CSV, la sua modifica, l'analisi dei dati, la gestione dei valori mancanti, degli outlier, l'encoding delle variabili categoriche, il ridimensionamento delle variabili e la divisione del dataset. Successivamente, vengono creati e valutati modelli di machine learning utilizzando le librerie scikit-learn.
 
 ## Membri del Gruppo
 
@@ -22,6 +22,9 @@ Il progetto comprende le seguenti fasi:
 6. **Encoding delle Variabili Categoriche:** Codifichiamo le variabili categoriche in modo che possano essere utilizzate nei modelli di machine learning.
 7. **Ridimensionamento delle Variabili:** Ridimensioniamo le variabili se necessario per migliorare le prestazioni dei modelli di machine learning.
 8. **Divisione del Dataset:** Dividiamo il dataset in set di addestramento e test per la costruzione dei modelli.
+9. **Creazione dei Modelli:** Utilizziamo le librerie scikit-learn per creare modelli di machine learning come regressione logistica, albero decisionale e random forest.
+10. **Valutazione dei Modelli:** Valutiamo le prestazioni dei modelli utilizzando metriche come l'accuratezza e generando rapporti di classificazione.
+11. **Utilizzo delle Librerie:** Il progetto fa ampio uso delle librerie Python come pandas, matplotlib, seaborn e scikit-learn per l'analisi e la creazione dei modelli.
 
 ## Utilizzo del Codice
 
@@ -35,3 +38,4 @@ Il progetto richiede l'installazione delle seguenti librerie Python:
 - matplotlib
 - seaborn
 - scikit-learn
+
